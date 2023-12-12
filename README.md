@@ -258,6 +258,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Neabot NoMo N1 Plus
 - Kyvol E31
 - Setti+ RV800
+- Liectroux XR500
 - [_Your vacuum?_][edit-readme]
 
 ## Development
